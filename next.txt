@@ -1,0 +1,14 @@
+add user slice
+add user to slice and read from there
+change ttl to a higher value in verify query
+change the logo (blue theme)
+
+dockerize
+
+for skeletons - https://flowbite.com/docs/components/skeleton/
+
+ISSUES
+- check filters
+
+NICE TO DO
+add test or two to try differnt scenarios (like axios data fetching etc)
